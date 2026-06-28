@@ -366,8 +366,6 @@ report.close()
 
 print("\n[OK] Sicherheitsbericht wurde erstellt.")
 
-print("\n[OK] Sicherheitsbericht wurde erstellt.")
-
 
 # ==========================
 # Nächster empfohlener Schritt
