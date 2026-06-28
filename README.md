@@ -62,7 +62,7 @@ HomeOfficeNetworkGuardian
 
 ## Ziel des Projekts
 
-Ziel des Projekts ist es, Homeoffice-Mitarbeitende sowie IT-Dienstleister bei der schnellen Bewertung der Netzwerksicherheit zu unterstützen.
+Ziel des Projekts ist es, Homeoffice-Mitarbeitende bei der schnellen Bewertung der Netzwerksicherheit zu unterstützen.
 
 ---
 
