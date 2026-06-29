@@ -70,7 +70,7 @@ Ziel des Projekts ist es, Homeoffice-Mitarbeitende bei der schnellen Bewertung d
 
 # Roadmap
 
-## Version 1.0 (Abgeschlossen)
+## Version 1.0 (In Bearbeitung)
 
 - Netzwerkanalyse
 - VPN-Prüfung
