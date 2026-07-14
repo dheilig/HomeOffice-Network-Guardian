@@ -67,10 +67,6 @@ Ziel des Projekts ist es, Homeoffice-Mitarbeitende bei der schnellen Bewertung d
 
 ## Hinweis
 
-Dieses Projekt wurde von mir im Rahmen meiner Umschulung zur Kauffrau für IT-Systemmanagement entwickelt.
-
-## Hinweis
-
 Dieses Projekt wurde im Rahmen meiner Umschulung erstellt. Bei der Umsetzung habe ich KI als Unterstützung genutzt, insbesondere für Erklärungen, Codeoptimierungen und Problemlösungen. Die Projektidee, die Konzeption sowie die schrittweise Entwicklung und Anpassung des Projekts stammen von mir.
 
 ---
