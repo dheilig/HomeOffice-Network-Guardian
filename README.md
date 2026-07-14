@@ -61,7 +61,7 @@ HomeOfficeNetworkGuardian
 
 ## Ziel des Projekts
 
-Ziel des Projekts ist es, Homeoffice-Mitarbeitende bei der schnellen Bewertung der Netzwerksicherheit zu unterstützen.
+Ziel des Projekts ist es, grundlegende Netzwerk- und Sicherheitseinstellungen eines Homeoffice-Arbeitsplatzes automatisiert zu analysieren, potenzielle Risiken aufzuzeigen und konkrete Handlungsempfehlungen zur Verbesserung der IT-Sicherheit bereitzustellen.
 
 ---
 
@@ -73,7 +73,7 @@ Dieses Projekt wurde im Rahmen meiner Umschulung erstellt. Bei der Umsetzung hab
 
 # Roadmap
 
-## Version 1.0 (In Bearbeitung)
+## Version 1.0 (Aktuelle Version)
 
 - Netzwerkanalyse
 - VPN-Prüfung
