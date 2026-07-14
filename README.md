@@ -79,7 +79,6 @@ Dieses Projekt wurde im Rahmen meiner Umschulung erstellt. Bei der Umsetzung hab
 - VPN-Prüfung
 - Firewall-Prüfung
 - DNS-Analyse
-- Gateway-Erkennung
 - Security Score
 - Risikoanalyse
 - Handlungsempfehlungen
