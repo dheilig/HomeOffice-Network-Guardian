@@ -65,14 +65,27 @@ print(ergebnis.stdout)
 
 print("\n--- Verbindungstyp ---")
 
-if "WLAN" in ergebnis.stdout and "Verbunden" in ergebnis.stdout:
+wlan_verbunden = False
+lan_verbunden = False
+
+zeilen = ergebnis.stdout.splitlines()
+
+for zeile in zeilen:
+
+    if "Verbunden" in zeile and "WLAN" in zeile:
+        wlan_verbunden = True
+
+    if "Verbunden" in zeile and "Ethernet" in zeile:
+        lan_verbunden = True
+
+if wlan_verbunden:
 
     score += 10
 
     print("[INFO] Sie sind aktuell über WLAN verbunden.")
     print("[EMPFEHLUNG] Achten Sie auf WPA2/WPA3 und nutzen Sie bei Firmendaten ein VPN.")
 
-elif "Ethernet" in ergebnis.stdout and "Verbunden" in ergebnis.stdout:
+elif lan_verbunden:
 
     score += 10
 
@@ -253,8 +266,11 @@ else:
 
 print("\nPunkteübersicht:")
 
-if "WLAN" in ergebnis.stdout and "Verbunden" in ergebnis.stdout:
+if wlan_verbunden:
     print(" +10 WLAN-Verbindung erkannt")
+
+elif lan_verbunden:
+    print(" +10 LAN-Verbindung erkannt")
 
 if vpn_gefunden:
     print(" +30 VPN erkannt")
