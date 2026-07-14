@@ -52,7 +52,6 @@ HomeOfficeNetworkGuardian
 - Windows Firewall
 - DNS
 - VPN
-- Gateway
 - Netzwerkprofile
 - Windows-Netzwerkanalyse
 - Git
