@@ -82,24 +82,7 @@ Ziel des Projekts ist es, Homeoffice-Mitarbeitende bei der schnellen Bewertung d
 - Handlungsempfehlungen
 - TXT-Sicherheitsbericht
 
----
 
-## Version 2.0 (Geplant)
-
-- HTML-Sicherheitsbericht
-- Grafische Benutzeroberfläche (GUI)
-- Proxy-Server erkennen
-- BitLocker-Prüfung
-- Erweiterter Security Score
-
----
-
-## Version 3.0 (Ideen)
-
-- Weboberfläche
-- Dashboard für Unternehmen
-- Mehrere Computer gleichzeitig analysieren
-- Historie der Security Scores
 
 ## Autor
 
