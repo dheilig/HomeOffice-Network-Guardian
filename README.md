@@ -63,6 +63,12 @@ HomeOfficeNetworkGuardian
 
 Ziel des Projekts ist es, Homeoffice-Mitarbeitende bei der schnellen Bewertung der Netzwerksicherheit zu unterstützen.
 
+
+## Hinweis
+
+Dieses Projekt wurde von mir im Rahmen meiner Umschulung zur Kauffrau für IT-Systemmanagement entwickelt.
+
+Für einzelne Programmieraufgaben, Erklärungen und Optimierungen habe ich KI als Unterstützung genutzt. Die Projektidee, die Konzeption, die Auswahl der Funktionen sowie die schrittweise Umsetzung und das Testen stammen von mir. Alle Codeabschnitte wurden von mir nachvollzogen, getestet und an die Anforderungen des Projekts angepasst.
 ---
 
 ---
