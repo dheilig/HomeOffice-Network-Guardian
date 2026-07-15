@@ -90,5 +90,5 @@ Dieses Projekt wurde im Rahmen meiner Umschulung erstellt. Bei der Umsetzung hab
 
 Dominique Heilig
 
-Umschulung Kauffrau für IT- Systemmanagement
+Umschulung zur Kauffrau für IT- Systemmanagement
 
